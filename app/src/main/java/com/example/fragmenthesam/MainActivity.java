@@ -52,7 +52,6 @@ public class MainActivity extends AppCompatActivity implements HeadFragment.Call
         //test3 newww
 
         //config test1
-
         //config test2
 
         MediaPlayer mediaPlayer;
