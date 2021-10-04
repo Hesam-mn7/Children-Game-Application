@@ -53,6 +53,8 @@ public class MainActivity extends AppCompatActivity implements HeadFragment.Call
 
         //config test1
 
+        //config test2
+
         MediaPlayer mediaPlayer;
         mediaPlayer = MediaPlayer.create(getApplicationContext(), R.raw.effects);
         mediaPlayer.start();
