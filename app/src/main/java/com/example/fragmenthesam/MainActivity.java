@@ -44,6 +44,8 @@ public class MainActivity extends AppCompatActivity implements HeadFragment.Call
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         init();
+        
+        //test commit
 
         MediaPlayer mediaPlayer;
         mediaPlayer = MediaPlayer.create(getApplicationContext(), R.raw.effects);
